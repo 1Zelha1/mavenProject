@@ -7,5 +7,8 @@ public class helloTest {
 
         System.out.println("developing hello feture");
 
+        System.out.println("local Repo is alleady puplished");
+        System.out.println("doing moe work");
+
     }
 }
